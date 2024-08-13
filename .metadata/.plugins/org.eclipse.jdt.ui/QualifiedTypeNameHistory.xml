@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.example.realestate.entity.Property"/>
+    <fullyQualifiedTypeName name="com.example.realestate.entity.Bill"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.Query"/>
+    <fullyQualifiedTypeName name="org.springframework.data.repository.query.Param"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Service"/>
+    <fullyQualifiedTypeName name="com.example.realestate.repository.AgentRepository"/>
+    <fullyQualifiedTypeName name="com.example.realestate.service.AgentService"/>
+    <fullyQualifiedTypeName name="com.example.realestate.service.BuilderService"/>
+    <fullyQualifiedTypeName name="com.example.realestate.repository.BuilderRepository"/>
+    <fullyQualifiedTypeName name="com.example.realestate.request.LoginRequest"/>
+    <fullyQualifiedTypeName name="com.example.realestate.entity.Agent"/>
+    <fullyQualifiedTypeName name="org.springframework.security.core.userdetails.User"/>
+    <fullyQualifiedTypeName name="com.example.realestate.entity.Builder"/>
+</qualifiedTypeNameHistroy>
